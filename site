@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <head>
+  <meta charset="UTF-8">
+  <title>A Musical Center</title>
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+  	p{
+
+  		text-align: center
+  	}
+ </head>
+ <body>
+  <h1 style="text-align: center;">Sobre a frânquia A Musical Center</h1>
+
+  <p style="text-align: center;">Localizada no Shopping Cristal, o melhor shopping de Curitiba e região, A Musical Center vende os melhores e de maior qualidade instrumentos e acessórios musicais.</p>
+
+  <p style="font-size: 20px;"><em>Nossa missão é: <strong>oferecer os melhores  produtos,e de otima qualidade de Curitiba e região metropolitana</strong>.</em></p>
+
+  <p style="text-align: center;">Oferecemos profissionais experientes e antenados às mudanças no mundo da música. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes</p>
+ </body>
+</html>
